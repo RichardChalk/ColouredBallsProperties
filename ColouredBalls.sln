@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.4.33103.184
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ColouredBallsProperties", "ColouredBallsProperties\ColouredBallsProperties.csproj", "{F1EA94B7-E6C6-46DD-B950-9231DD317FFD}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{F1EA94B7-E6C6-46DD-B950-9231DD317FFD}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F1EA94B7-E6C6-46DD-B950-9231DD317FFD}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F1EA94B7-E6C6-46DD-B950-9231DD317FFD}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F1EA94B7-E6C6-46DD-B950-9231DD317FFD}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {D0BC0BE3-9BF5-412A-9280-1FE76189B547}
+	EndGlobalSection
+EndGlobal
