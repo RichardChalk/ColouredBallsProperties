@@ -11,7 +11,7 @@ namespace ColouredBalls
     {
         public Colour Colour { get; set; }
         public float Size { get; set; }
-        public int TimesThrown { get; set; }
+        public int TimesThrown { get; private set; }
 
         public Ball(Colour colour, float size)
         {

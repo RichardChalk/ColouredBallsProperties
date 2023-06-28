@@ -8,7 +8,20 @@ namespace ColouredBalls
 {
     public class Colour
     {
-        public byte Red { get; set; }
+        private int red;
+
+        public int Red
+        {
+            get
+            {
+                return red;
+            }
+            set
+            {
+                red = value;
+            }
+        }
+
         public byte Green { get; set; }
         public byte Blue { get; set; }
         public byte Alpha { get; set; }
